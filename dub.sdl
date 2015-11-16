@@ -1,0 +1,5 @@
+name "tensorflow"
+description "TensorFlow C API"
+copyright "Copyright © 2015, lempiji"
+authors "lempiji"
+version "0.1.0"
